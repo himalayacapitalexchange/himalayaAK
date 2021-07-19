@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.fundingfordeeptech2019.informedfunding.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1576782742|lA59jRy-mRXN
+www.fundingfordeeptech2019.informedfunding.com	TRUE	/	FALSE	1999999999	ssr-caching	cache,desc=hit,varnish=hit, dc,desc=as1"
+www.fundingfordeeptech2019.informedfunding.com	TRUE	/	FALSE	1999999999	hs	1385879732
+www.fundingfordeeptech2019.informedfunding.com	TRUE	/	FALSE	1999999999	svSession	4f9566662a1949a1f9d8fb32cada54e7270a3ecfbc27cd97b9b2e47c65f6f0abbca7db7f33eeb14d4b9335580ed41eed1e60994d53964e647acf431e4f798bcd6fc6830a66d108d4b85ea095bb4a8eadbfeb7939635be2e4717927fed0a3a5bd
+
